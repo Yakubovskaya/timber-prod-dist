@@ -1014,10 +1014,6 @@ img {
     padding-right: 44px;
   }
 
-  .webp .about {
-    background: #85A703;
-  }
-
   .about {
     height: auto;
     padding: 100px 0 110px 0;
@@ -1247,8 +1243,6 @@ img {
 }
 
 .webp .promo { background: url(../img/main.webp) center center/cover no-repeat; }
-
-.webp .about { background: url(../img/about_background.webp) center 20%/100% no-repeat; }
 
 .webp .production { background: url(../img/prod_bg.webp) center bottom/100% no-repeat; }
 
