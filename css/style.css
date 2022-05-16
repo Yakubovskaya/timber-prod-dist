@@ -1096,7 +1096,7 @@ img {
             align-items: center;
     top: 0;
     left: -100%;
-    width: 50%;
+    width: 80%;
     height: 100vh;
     padding: 20px 15px;
     background-color: rgba(255, 255, 255, 0.99);
@@ -1111,7 +1111,8 @@ img {
 
   .nav__item {
     border: none;
-    margin-top: 10px;
+    margin-top: 20px;
+    text-transform: uppercase;
   }
 
   .nav__item:not(:last-child) {
