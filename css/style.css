@@ -1014,6 +1014,10 @@ img {
     padding-right: 44px;
   }
 
+  .webp .about {
+    background: #85A703;
+  }
+
   .about {
     height: auto;
     padding: 100px 0 110px 0;
