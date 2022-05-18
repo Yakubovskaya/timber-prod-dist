@@ -565,6 +565,10 @@ img {
   color: #475A5E;
 }
 
+.nav__link:hover {
+  color: #253e47;
+}
+
 .no-webp .promo {
   background: url("../img/main.jpg") center center/cover no-repeat; }
 
@@ -609,7 +613,7 @@ img {
   content: "";
   position: absolute;
   left: -28px;
-  top: 3px;
+  top: 2px;
   width: 20px;
   height: 20px;
   background: url("../img/icons/phone.svg") center center/cover no-repeat;
@@ -1243,6 +1247,8 @@ img {
 }
 
 .webp .promo { background: url(../img/main.webp) center center/cover no-repeat; }
+
+.webp .about { background: url(../img/about_background.webp) center 20%/100% no-repeat; }
 
 .webp .production { background: url(../img/prod_bg.webp) center bottom/100% no-repeat; }
 
